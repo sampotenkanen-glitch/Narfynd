@@ -17,6 +17,7 @@ filtered.*
 EUbookshop*
 specs/
 lib/
+!src/lib/
 server/
 overcrowding_data.json
 de-en.txt*
