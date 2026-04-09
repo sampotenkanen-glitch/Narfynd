@@ -16,13 +16,8 @@ dist/
 filtered.*
 EUbookshop*
 specs/
-app/
 lib/
 server/
 overcrowding_data.json
-cardskeleton.tsx
-destinationcard.tsx
-tripsummary.tsx
-globals.css
 de-en.txt*
 README
